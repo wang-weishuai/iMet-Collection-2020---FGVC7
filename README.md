@@ -7,6 +7,7 @@ In this dataset, we are presented with a large number of artwork images and asso
 
 Each object is annotated by a single annotator without a verification step. Annotators were advised to add multiple labels from an ontology provided by The Met, and additionally are allowed to add free-form text when they see fit. They were able to view the museum's online collection pages and advised to avoid annotating labels already present. The attributes can relate to what one "sees" in the work or what one infers as the object's "utility."
 
+**Note: For the restriction of this competiton, I had to merge all of my code into only one file named res1013.py**
 ### File
 Files
 The filename of each image is its **id**.
